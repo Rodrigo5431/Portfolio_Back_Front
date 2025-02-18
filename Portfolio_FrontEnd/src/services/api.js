@@ -1,6 +1,5 @@
 import axios from "axios";
 
-// const API = "https://portfolio-backend-l0j1.onrender.com";
  const API = "http://localhost:8080";
 
 export const api = axios.create({
