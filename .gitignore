@@ -1,0 +1,69 @@
+# ─── LOGS ──────────────────────────────────────────────────────────────
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ─── DEPENDÊNCIAS E BUILDS ─────────────────────────────────────────────
+node_modules/
+dist/
+dist-ssr/
+*.local
+target/
+build/
+
+# ─── AMBIENTE E CONFIGURAÇÕES SENSÍVEIS ────────────────────────────────
+.env
+HELP.md
+
+# ─── EXCLUSÕES ESPECÍFICAS PARA MAVEN ──────────────────────────────────
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# ─── CONFIGURAÇÕES DE EDITORES E IDEs ───────────────────────────────────
+# VS Code
+.vscode/
+.vscode/launch.json
+!.vscode/extensions.json
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Eclipse / Spring Tool Suite (STS)
+.apt_generated
+.classpath
+/.metadata/
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+# ─── MAC OS ────────────────────────────────────────────────────────────
+.DS_Store
+
+# ─── WINDOWS ───────────────────────────────────────────────────────────
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
