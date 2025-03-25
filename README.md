@@ -78,9 +78,9 @@ O backend estará rodando em `http://localhost:8080/` 🔥
 
 ## 📩 Contato
 Caso queira entrar em contato, você pode me encontrar em:
-- ✉️ **E-mail:** seuemail@email.com
+- ✉️ **E-mail:** rodrigocarvalholima2005@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/devrodrigo-carvalho/)
-- 🌐 [Meu Site](https://rodrigocarvalho-dev.netlify.app)
+- 🌐 [Meu Site](https://portfolio-rodrigo-dev.netlify.app)
 
 ---
 
